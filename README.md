@@ -1,2 +1,2 @@
 # Titanic
-A novel research-driven approach to a classic problem
+A novel, research-driven approach to a classic problem
