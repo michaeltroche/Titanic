@@ -1,2 +1,2 @@
 # Titanic
-A novel approach to a classic problem
+A novel approach to a classic problem.
