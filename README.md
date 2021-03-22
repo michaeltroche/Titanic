@@ -8,4 +8,4 @@ In this project I am working on Kaggle's Titanic dataset. I am using machine lea
 
 
 ### Results
-![F1 Results](./graphs/f1_results.png)
+![F1 Results](./results/f1_results.png)
