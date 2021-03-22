@@ -5,4 +5,4 @@ In this project I am working on Kaggle's Titanic dataset. I am using machine lea
 
 
 ### Results
-![ROC AUC Results](graphs/roc_auc_results.pdf )
+![Results](./graphs/roc_auc_results.pdf ?raw=true "Title")
